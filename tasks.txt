@@ -1,0 +1,2 @@
+convert the int to float
+find factorial of number
